@@ -1,0 +1,10 @@
+Package: LawWordCloud
+Type: Package
+Title: Law Word Cloud - Data Visualization
+Version: 0.1.0
+Author: Michelle Slement
+Maintainer: The package maintainer <mslement@usf.edu>
+Description: Function which gathers law-related speeches or case files and forms them into a visualized word cloud.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
